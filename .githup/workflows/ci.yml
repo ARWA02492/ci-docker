@@ -52,4 +52,3 @@ jobs:
 
       - name: Stop and remove container
         run: docker rm -f my-app-container
-س
