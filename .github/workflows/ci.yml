@@ -51,5 +51,4 @@ jobs:
         run: docker logs my-app-container
 
       - name: Stop and remove container
-        run: docker rm -f my-app-container
-س
+        run: docker rm -f my-app-containers
